@@ -1,0 +1,3 @@
+	Bai Mai Thai program use for measuring the leaf area.
+	This program is a part of the scientific project "The comparison of the difference of leaf measurement between using Bai Mai Thai program and Area meter A033" Studied at Mahidol Wittayanusorn School, Thailand.
+	Developed by Kuankidnatta Arunsri, Thanabhat Koomsubha, Pawee Manee-in, Email : thanabhat_jo@hotmail.com
